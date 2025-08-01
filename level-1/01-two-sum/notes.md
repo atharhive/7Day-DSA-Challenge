@@ -1,8 +1,8 @@
 # 🧠 Reflections & Learning – [Problem Name Here]
 
-📌 **LeetCode Link**: [Paste Problem Link Here]  
-🎥 **NeetCode Video**: [Paste Video Link]  
-✅ **My LeetCode Solution**: [Paste LeetCode solution link if shared]
+📌 **LeetCode Link**: [https://leetcode.com/problems/two-sum/description/]  
+🎥 **NeetCode Video**: [https://youtu.be/KLlXCFG5TnA?si=HCvJUVowSfYaqdvp]  
+✅ **My LeetCode Solution**: [https://leetcode.com/problems/two-sum/submissions/1719456793]
 
 ---
 
