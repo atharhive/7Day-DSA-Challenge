@@ -26,30 +26,24 @@ so, we have a target eg. 9 and we have find the combination 2 numbers from array
 ## 🧩 Approach
 
 - Describe the logic in simple words.
-- Mention if you used brute force first, then optimized.
 
+Make a map to store numbers and their indexes.
+For each number, check if target - number is in the map.
+If yes, return their indexes.
+Else, store the number with its index.
 ---
 
 ## 💡 Key Insight
 
 - What unlocked the solution for you?
-- Any pattern or concept (e.g., sliding window, hash map, etc.)
-
----
-
-## 🧪 Test Cases / Dry Run
-
-- Try 1-2 sample inputs by hand.
-
+Use of hash Map
 ---
 
 ## 🚫 Mistakes / Stuck Points
 
 - Where did you struggle?
+it was easy and understandable
 - What will you remember next time?
+check if target - number is in the hashMap
 
 ---
-
-## ✍️ Notes / Takeaway
-
-- Final clean summary in 2-3 lines.
