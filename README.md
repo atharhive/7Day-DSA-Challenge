@@ -30,13 +30,4 @@ Solve **50+ curated DSA problems** in just 7 days.
 🧠 Reflect: What you solved + what blocked you
 
 ---
-📁 7Day-DSA-Challenge/
-│
-├── 📂 Level-1: Arrays + Two Pointers
-├── 📂 Level-2: Stack + Queue
-├── 📂 Level-3: Binary Search + Sorting
-├── 📂 Level-4: Recursion + Backtracking
-├── 📂 Level-5: Trees + Graphs
-
-## 📂 Folder Structure
 
